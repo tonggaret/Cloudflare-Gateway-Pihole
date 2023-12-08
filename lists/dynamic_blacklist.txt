@@ -1,3 +1,11 @@
+#
+appcenter.ms
+app-measurement.com
+firebase.io
+firebaseio.com
+crashlytics.com
+google-analytics.com
+#
 la2.vnecdn.net
 connect.facebook.net
 beacons.gcp.gvt2.com
